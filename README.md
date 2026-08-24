@@ -5,7 +5,7 @@
 <a href="https://bilalmlkdev.vercel.app/" align="left"><img align="left" width="122" alt="About Me" src="https://github.com/user-attachments/assets/e94abb1b-85b8-4f39-9861-6a8920058fd0"></a>
 <br><br>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=byllzz&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/byllzz)
-<p align="left"><img align="left" src="https://github.com/user-attachments/assets/2fa8d692-b5c6-41d0-82f5-1bc08567b10c" width="200px"></p>
+<p align="left"><img align="left" src="https://github.com/user-attachments/assets/d5a2ee21-1708-415f-9f7c-9f9206a9871d" width="200px"></p>
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Frontend Developer & ...</li>
