@@ -4,7 +4,7 @@
 
 <a href="https://bilalmlkdev.vercel.app/" align="left"><img align="left" width="122" alt="About Me" src="https://github.com/user-attachments/assets/e94abb1b-85b8-4f39-9861-6a8920058fd0"></a>
 <br><br>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=byllzz&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/byllzz)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=bilalmlkdev&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/bilalmlkdev)
 <p align="left"><img align="left" src="https://github.com/user-attachments/assets/58394475-b414-47a5-8c85-9b55c0f65b94" width="200px"></p>
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
@@ -76,15 +76,15 @@
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=your-github-byllzz&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=your-github-bilalmlkdev&color=blueviolet)
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=byllzz&theme=dark&show_icons=false&include_all_commits=true&count_private=true" alt="byllzz's GitHub stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bilalmlkdev&theme=dark&show_icons=false&include_all_commits=true&count_private=true" alt="bilalmlkdev's GitHub stats" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=byllzz&theme=dark&layout=compact&hide_border=false" alt="byllzz's Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bilalmlkdev&theme=dark&layout=compact&hide_border=false" alt="bilalmlkdev's Top Languages" />
 
 <!--
 ### Contribution Activity
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=byllzz&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilalmlkdev&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
 </a> -->
 
