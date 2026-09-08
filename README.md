@@ -82,9 +82,9 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bilalmlkdev&theme=dark&layout=compact&hide_border=false" alt="bilalmlkdev's Top Languages" />
 
-<!--
+
 ### Contribution Activity
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilalmlkdev&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
-</a> -->
+</a>
 
